@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akashsubramaniyan
+- 👋 Hi, I’m akash
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
