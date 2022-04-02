@@ -1,8 +1,7 @@
-- <h1 align="center">👋 Hi, I’m akash</h1>
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- <h1 align="center">👋 Hi, I’m Akash</h1>
+-<h2> 👀 I’m interested in learning.</h2>
+- <h2>🌱 I’m currently learning IT</h2>
+-.
 
 <!---
 akashsubramaniyan/akashsubramaniyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
