@@ -1,4 +1,4 @@
-- 👋 Hi, I’m akash
+- <h1 align="center">👋 Hi, I’m akash</h1>
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on ...
