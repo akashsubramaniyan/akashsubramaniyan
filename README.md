@@ -1,4 +1,4 @@
-  <h1 align="center">👋 Hi, I’m Akash</h1>
+  <h1>👋 Hi, I’m Akash</h1>
   <h2> 👀 I’m interested in learning.</h2>
   <h2>🌱 I’m currently learning IT</h2>
   <li><a href="https://akashsubramaniyan.github.io/akash.github.io/">Portfolio</a></li>
